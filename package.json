@@ -1,6 +1,6 @@
 {
   "name": "@writetome51/array-remove-adjacent-at",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Function that removes adjacent items from the array",
   "main": "",
   "scripts": {
