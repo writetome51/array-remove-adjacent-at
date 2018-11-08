@@ -23,9 +23,10 @@
   ],
   "author": "Steve Thompson",
   "license": "MIT",
-  "devDependencies": {},
+  "devDependencies": {
+    "@writetome51/arrays-match": "1.0.2"
+  },
   "dependencies": {
-    "@writetome51/array-get-and-remove-adjacent-at": "latest",
-    "@writetome51/arrays-match": "latest"
+    "@writetome51/array-get-and-remove-adjacent-at": "1.0.2"
   }
 }
