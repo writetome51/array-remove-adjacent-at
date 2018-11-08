@@ -2,19 +2,30 @@
   "name": "@writetome51/array-remove-adjacent-at",
   "version": "1.0.1",
   "description": "Function that removes adjacent items from the array",
-  "main": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/array-remove-adjacent-at.git"
+  },
+  "bugs": {
+    "url": "https://github.com/writetome51/array-remove-adjacent-at/issues"
+  },
+  "homepage": "https://github.com/writetome51/array-remove-adjacent-at#readme",
   "keywords": [
     "array",
-    "manipulation"
+    "manipulation",
+    "remove",
+    "adjacent",
+    "items"
   ],
   "author": "Steve Thompson",
   "license": "MIT",
   "devDependencies": {},
   "dependencies": {
-    "@writetome51/array-get-and-removers-basic": "latest",
+    "@writetome51/array-get-and-remove-adjacent-at": "latest",
     "@writetome51/arrays-match": "latest"
   }
 }
