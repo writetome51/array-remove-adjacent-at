@@ -2,9 +2,10 @@
   "name": "@writetome51/array-remove-adjacent-at",
   "version": "1.0.3",
   "description": "Removes adjacent items from an array, beginning at a chosen index",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -24,9 +25,9 @@
   "author": "Steve Thompson",
   "license": "MIT",
   "devDependencies": {
-    "@writetome51/arrays-match": "~1.0.2"
+    "@writetome51/arrays-match": "~1.0.5"
   },
   "dependencies": {
-    "@writetome51/array-get-and-remove-adjacent-at": "~1.0.2"
+    "@writetome51/array-get-and-remove-adjacent-at": "~1.0.4"
   }
 }

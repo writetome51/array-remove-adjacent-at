@@ -1,4 +1,4 @@
-import { removeAdjacentAt } from './removeAdjacentAt';
+import { removeAdjacentAt } from './index';
 import { arraysMatch } from '@writetome51/arrays-match';
 
 
