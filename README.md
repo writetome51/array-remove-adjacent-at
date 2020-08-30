@@ -19,10 +19,6 @@ removeAdjacentAt(2, 4, arr);
 `npm i  @writetome51/array-remove-adjacent-at`
 
 ## Loading
-```
-// if using TypeScript:
+```js
 import {removeAdjacentAt} from '@writetome51/array-remove-adjacent-at';
-// if using ES5 JavaScript:
-var removeAdjacentAt = 
-    require('@writetome51/array-remove-adjacent-at').removeAdjacentAt;
 ```

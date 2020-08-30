@@ -1,5 +1,5 @@
 export declare function removeAdjacentAt(
 	startingIndex: number,
-	numItemsToRemove: number,
+	howMany: number,
 	array: any[]
 ): void;
